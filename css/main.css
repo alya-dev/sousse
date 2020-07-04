@@ -1,0 +1,63 @@
+.col-4,
+.col-6,
+.col-8 {
+  border: 1px dashed black;
+  min-height: 100px;
+}
+body {
+  font-family: "Poppins", sans-serif;
+}
+.bg-1 {
+  background-image: url(../images/tourisme-sousse.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.bg-2 {
+  background-image: url(../images/2.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.bg-3 {
+  background-image: url(../images/3.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.bg-4 {
+  background-image: url(../images/4.gif);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.bg-5 {
+  background-image: url(../images/5.gif);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.logo {
+  width: 200px;
+  height: auto;
+}
+
+h1 {
+  font-size: 60px;
+}
+h2 {
+  font-size: 40px;
+  color: #240b36;
+}
+
+.bg-footer {
+  background-color: black;
+}
+a {
+  color: inherit;
+}
+a:hover {
+  color: aliceblue;
+  text-decoration: none;
+}
